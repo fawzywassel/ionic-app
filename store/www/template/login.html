@@ -1,0 +1,28 @@
+<ion-view view-title="Login">
+    <ion-content>
+
+
+
+        <div class="list">
+
+
+
+            <label class="item item-input">
+                <span class="input-label">Username</span>
+                <input type="text" ng-model="user.name" ng-required="true" name="userName">
+            </label>
+
+            <label class="item item-input">
+                <span class="input-label">Password</span>
+                <input type="password" ng-model="user.password" ng-required="true" name="userPassword">
+            </label>
+            <br>
+            <button ng-click="register()" class="button button-calm">Register</button>
+            <button ng-click="getUser(user)" class="button  button-block button-calm " ng-disabled="!(!!user.name || !!user.password )">
+                login
+            </button>
+
+
+        </div>
+    </ion-content>
+</ion-view>

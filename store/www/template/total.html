@@ -1,0 +1,15 @@
+<ion-view view-title="total">
+    <ion-content>
+
+
+        <div class="list">
+            <div class="item item-input-wrapper">Your order list </div>
+            <div class="item" ng-repeat="prd in total">
+
+                <span>{{prd}}</span>
+            </div>
+
+        </div>
+        <a class="button button-block button-black" ng-click="clear()">Delete All</a>
+    </ion-content>
+</ion-view>

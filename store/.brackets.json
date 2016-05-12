@@ -1,0 +1,27 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-splashscreen/src/blackberry10/index.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-splashscreen/www/windows/SplashScreenProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/browser/DeviceProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/windows/DeviceProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/blackberry10/index.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-device/src/ubuntu/device.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/ionic-plugin-keyboard/www/browser/keyboard.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/ionic-plugin-keyboard/www/android/keyboard.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-statusbar/src/browser/statusbar.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/plugins/cordova-plugin-statusbar/src/windows/StatusBarProxy.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-sanitize.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular.min.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-animate.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-animate.min.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-resource.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-sanitize.min.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular/angular-resource.min.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "/home/fawzywassel/Desktop/Untitled Folder 2/store/www/lib/ionic/js/angular-ui/angular-ui-router.min.js"
+    ]
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Azurite",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 110.50,
+    "color": "#CCC", 
+    "images": "images/gem-02.gif" 
+  },
+  {
+    "name": "Bloodstone",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 22.90,
+    "rarity": 6,
+    "color": "#EEE",
+    "images": "images/gem-01.gif"
+  },
+  {
+    "name": "Zircon",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#000",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "Citsine",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#a55e5e",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "Citsine Gold",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#4b1f1f",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "Citsine Silver",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#56ffe5",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "Sliver Gem",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#8aff8a",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "Real Gem",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#e2541f",
+    "images": "images/gem-06.gif"
+  },
+  {
+    "name": "old Gem",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "price": 1100,
+    "rarity": 2,
+    "color": "#333",
+    "images": "images/gem-06.gif"
+  }
+]

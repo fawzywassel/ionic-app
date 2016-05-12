@@ -1,0 +1,49 @@
+<ion-view view-title="order">
+    <ion-content>
+
+
+
+        <div class="list">
+
+            <label class="item item-input item-select">
+                <div class="input-label">
+                    Product
+                </div>
+                <select ng-model="select" ng-change="productInfo(product)">
+                    <option ng-repeat="product in products">{{product.name}}</option>
+                    <span ng-sow="!select">Choose</span>
+
+                </select>
+
+                <!--
+              <select ng-selected="select.name" ng-model="select" ng-options="product.name for product in products track by product.name ">
+
+
+                </select>
+           
+-->
+                <!--            {{select.price}}-->
+            </label>
+
+
+
+            <label class="item item-input item-select">
+                <div class="input-label">
+                    Payment Method
+                </div>
+
+                <select ng-model="selectedMethod" ng-change="selected()">
+                    <option>visa</option>
+                    <option>cach</option>
+                </select>
+
+            </label>
+            <div class="item item-input" ng-if="flage">
+                <input type="number" placeholder="Visa Number" ng-model="visaNumber" limit-to="14">
+            </div>
+
+
+        </div>
+
+    </ion-content>
+</ion-view>

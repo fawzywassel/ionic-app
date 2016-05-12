@@ -1,0 +1,22 @@
+<ion-view view-title="Main">
+    <ion-content>
+
+        <div class="list">
+            <div class="item item item-thumbnail-left" ng-repeat="product in products |limitTo:4">
+                <img src="{{product.images}}">
+                <div class="caption">
+                    <h3 class="title">{{product.name}} </h3>
+                    <p>{{product.description}}</p>
+                    <!--<p><a href="#/product" class="btn btn-default center" ng-click="productDetails(product)" role="button">MOre Details</a></p>-->
+                </div>
+            </div>
+        </div>
+
+
+
+        <a href="#/products" class="button  button-block button-calm"> Show All</a>
+
+        <a href="#/order" class="button  button-block button-calm"> Order Now</a>
+
+    </ion-content>
+</ion-view>
